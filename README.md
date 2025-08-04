@@ -1,5 +1,3 @@
-Here's a clear and professional `README.md` tailored for your **FundMe** project, following best practices for GitHub documentation:
-
 ---
 
 ````markdown
