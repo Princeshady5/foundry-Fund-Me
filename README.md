@@ -91,10 +91,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Prince Matthew**
 Solidity Developer & Blockchain Learner
 📍 Follow my journey into smart contract development
-
-```
-
----
-
-Let me know if you'd like a version with badges (build, license, etc.), or tailored sections like “TODO” or “Known Issues.”
-```
