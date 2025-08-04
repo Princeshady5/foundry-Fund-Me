@@ -1,6 +1,4 @@
----
 
-````markdown
 # FundMe Smart Contract
 
 A decentralized crowdfunding smart contract built in Solidity and tested using Foundry. This project allows users to fund a contract with ETH, enforces a minimum funding value based on real-time USD conversion via Chainlink, and enables only the contract owner to withdraw funds.
